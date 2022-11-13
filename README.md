@@ -102,6 +102,7 @@ const allData = require('country-currency-list')
   },
   ..... more items
 ]
+```
 ## To use
 
 ```shell
