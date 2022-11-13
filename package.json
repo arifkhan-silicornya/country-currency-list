@@ -1,0 +1,26 @@
+{
+  "name": "country-currency-list",
+  "version": "1.0.0",
+  "description": "This is a small node package for find your specific country, currency, iso code or symbol. you can get a full data or filter data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifkhan-silicornya/country-currency-list.git"
+  },
+  "keywords": [
+    "currency",
+    "country",
+    "iso-code",
+    "symbol",
+    "country-name"
+  ],
+  "author": "MD Arif Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifkhan-silicornya/country-currency-list/issues"
+  },
+  "homepage": "https://github.com/arifkhan-silicornya/country-currency-list#readme"
+}
