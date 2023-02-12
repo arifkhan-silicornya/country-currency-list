@@ -1,10 +1,10 @@
 # country-currency-list
 this is a small node package for find your specific country, currency, iso code or symbol. you can get a full data or filter data.
 
-![npm](https://img.shields.io/npm/v/country-currency-list)
-![npm](https://img.shields.io/npm/l/country-currency-list?color=002350)
-![npm](https://img.shields.io/bundlephobia/minzip/country-currency-list/1.0.1)
-
+![npm](https://img.shields.io/npm/v/country-currency-list?style=plastic)
+![npm](https://img.shields.io/npm/l/country-currency-list?color=002350?style=plastic)
+![npm](https://img.shields.io/bundlephobia/minzip/country-currency-list/1.0.1?style=plastic)
+![npm](https://img.shields.io/npm/dt/country-currency-list?style=plastic)
 ## Install it via npm
 
 ```shell
